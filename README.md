@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichelIfoue123
 - 👀 I’m interested in software engineering and network 
-- 🌱 I’m currently learning Java ee
+- 🌱 I’m currently learning Java ee laravel 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
